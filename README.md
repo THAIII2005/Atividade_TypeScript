@@ -1,5 +1,5 @@
 ## Integrantes
 
 ## Arthur Passareli Moretti
-## Flávio Gabriel Gimenes
+## Flávio Gabriel Ruas Gimenes
 ## Thaís Vitória Dias Rosa
